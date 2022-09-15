@@ -23,3 +23,4 @@ def main(email, password):
 
 if __name__ == '__main__':
     main('t@t.com', '1234')
+    print('ryu')
